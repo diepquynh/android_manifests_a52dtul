@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="koquantam/android_device_htc_a52dtul"   path="device/htc/a52dtul" remote="github"  revision="cm-13.0" />
+	<project name="koquantam/android_kernel_htc_msm8916"   path="kernel/htc/msm8916" remote="private" revision="cm-13.0" />
+	<project name="koquantam/android_vendor_htc_a52dtul"   path="vendor/htc/a52dtul" remote="private" revision="cm-13.0" />
+	<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="private" revision="cm-13.0" />
+</manifest>
